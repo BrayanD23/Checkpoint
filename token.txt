@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 token Brayan: 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
+=======
+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
+token Daniela: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
+>>>>>>> 2a84d44d33f559c739b4bef6c9ed3afc9e662dff
